@@ -1,4 +1,4 @@
-склонировать преокт на локальный сервер<br>
+склонировать преокт на локальный сервер(в моем случае был OS panel, но можно любой)<br>
 cp .env.example .env<br>
 composer install<br>
 php artisan key:generate<br>
